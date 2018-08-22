@@ -7,123 +7,93 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ganesh Shahuraj Garad
+    tagline: Android Developer | Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ganesh2511995@gmail.com
+    phone: +91-9158957905 / +91-8788311745
+    website: answerdone.blogspot.com #do not add http://
+    linkedin: ganeshgarad
+    github: ganeshgarad
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@ggarad'
+    stack-overflow: 8120178/ganesh-garad # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Marathi
+        level: Native
         
     interests:
-      - item: Climbing
+      - item: Traveling
         link:
 
-      - item: Snowboarding
+      - item: Blogging
         link:
 
       - item: Cooking
         link:
 
 career-profile:
-    title: Career Profile
+    title: Android Developer | Web Developer
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      •	Created 5+ full function application for Android devices
+      •	UI design using Adobe XD, Photoshop and Illustrator for Mobile App and Websites
+      •	Understanding of MVC design patterns
+      •	Good development experience of front-end technologies, such as HTML5, CSS3 and JavaScript
+      •	Designing effective web Templates and Wireframes of user application   
+      •	Understanding fundamental design principles behind a scalable application
+      •	User authentication and authorization between multiple systems, servers, and environments 
+      •	Development experience in Hybrid application development using Ionic 3 Framework
+      •	Familiarity with SQLite /MYSQL databases and their declarative query languages
+      •	Expertise in Social Media & Payment Gateway Integration in Mobile Application
+
 
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+    - degree: BSc in Computer Science
+      university: University of Pune
+      time: 2012 - 2015
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Android Developer
+      time: 2016 - Present
+      company: DreamVisionary, Pune, India.
+      Role details: |
+          - Created user-friendly, aesthetically pleasing and fully functional applications for Android
+          - Wireframe and UI design for Mobile Application using Adobe XD
+          -	Built apps that communicate with RESTful services
+          -	Professionally completed task or project given period of 1 to 3 months
+          -	Integrated Google play services and Google Maps API V2
+          -	Performed testing on Physical device and the android emulator
+          -	Built compatibility with android version 2.2 to present
+          -	Implemented Location Listener to show exact location on Google Maps
+          -	Published and updated the application on the Google play store
+          -	Tested the application on multiple android targets and debugged the issues that were found
+          -	Programmed with clean, modular, robust code using Java and XML with Android SDK platform
+          -	Design and developed hybrid mobile application using Ionic 3 Framework
+
+
+    - role: Web Developer
+      time: 2015 - 2016
+      company: QueryTask IT Solutions Pvt. Ltd., Pune, India.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Developed dynamic and interactive website using Laravel PHP Framework
+          -	Worked on Adobe XD, Illustrator, CS5 and wireframes for designing portal layouts and User Interface
+          -	Developed the web application screens based on the Visual Designs using HTML5 & Bootstrap, CSS3, JavaScript & JQuery
+          -	Redesigned sections of the website to ensure a more attractive and user friendly experience
+          -	Created a Content Management System (CMS) which serves as an interface for clients
+          -	Modified design to create a responsive page using Twitter Bootstrap
 
 projects:
     title: Projects
@@ -177,23 +147,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Android
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: PHP with Laravel Framework
+        level: 90%
+
+      - name: ionic 3
+        level: 90%
+
+      - name: HTML5 & CSS3 with bootstrap 4
         level: 98%
 
-      - name: Angular
+      - name: Adobe XD
         level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+        
+      - name: Unity 3D
+        level: 40%
+        
+      - name: C#
+        level: 40%
+        
+      - name: C & C++
+        level: 60%
