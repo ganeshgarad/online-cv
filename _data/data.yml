@@ -58,8 +58,6 @@ career-profile:
       -	Expertise in Social Media & Payment Gateway Integration in Mobile Application
 
 
-      Second paragraph if required.
-
 education:
     - degree: BSc in Computer Science
       university: University of Pune
@@ -69,7 +67,7 @@ experiences:
     - role: Android Developer
       time: 2016 - Present
       company: DreamVisionary, Pune, India.
-      Role details: |
+      details: |
           - Created user-friendly, aesthetically pleasing and fully functional applications for Android
           - Wireframe and UI design for Mobile Application using Adobe XD
           -	Built apps that communicate with RESTful services
